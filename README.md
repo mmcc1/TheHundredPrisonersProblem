@@ -1,4 +1,4 @@
-# The Hundred Prisoners Problem
+# The 100 Prisoners Problem
 
 After watching Veritasium's video on the solution to this problem, I coded the solution to double check.
  
